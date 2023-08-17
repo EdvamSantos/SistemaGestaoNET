@@ -17,7 +17,7 @@ Atualmente a forma mais atualizada de conexao do Visual Studio.
 
 -Codigo atualizado para criar um arquivo word temporario ao invez de abrir o do caminho ele cria um temporario antes de fazer as devidas alterações.
 
--Todos os campos estão ligados sendo Textbox e Comboxx estão ligados ao DB do ACCESS local.
+-Todos os campos estão ligados sendo Textbox e Combox ao DB do ACCESS local.
 
 
 
