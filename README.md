@@ -11,6 +11,8 @@ Metodo de Conexão com o DB - Access 2023.
 
 Atualmente a forma mais rapida e atualizada de conexao do Visual Studio.
 
+A melhor coisa do mundo se chama DocX, esta poderosa extensão manipula arquivos docx, xlsx e outros de forma extremamente mais rapida, do que importar o interop, mas mesmo assim e bom ter ambos em seu projeto.
+
 ****Em desenvolvimento - NRs Forms:****
 
 -Em pararelo melhorando a conexão do xml oculto (Boa sorte para que encontrar KK).
