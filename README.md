@@ -1,7 +1,7 @@
 # Sistema Gestao
 Em desenvolvimento, codigo totalmente atualizado para a nova versão do .Net VB6, Com aquele lindo toque do Csharp.
 
-Versão 2.1 (Bio 2.1)
+****Versão 2.1 (Bio 2.1)****
 
 -Metodo de Conexão com o DB - Access 2023.
 
@@ -11,7 +11,7 @@ Versão 2.1 (Bio 2.1)
 
 Atualmente a forma mais atualizada de conexao do Visual Studio.
 
-***Em desenvolvimento NRs Forms***
+****Em desenvolvimento - NRs Forms:****
 
 -Em pararelo melhorando a conexão do xml oculto (Boa sorte para que encontrar KK).
 
