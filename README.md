@@ -9,7 +9,7 @@ Metodo de Conexão com o DB - Access 2023.
 
 ***(DataSet)***
 
-Atualmente a forma mais atualizada de conexao do Visual Studio.
+Atualmente a forma mais rapida e atualizada de conexao do Visual Studio.
 
 ****Em desenvolvimento - NRs Forms:****
 
