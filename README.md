@@ -1,4 +1,4 @@
-# SistemaGestao
+# Sistema Gestao
 Em desenvolvimento, codigo totalmente atualizado para a nova versão do .Net VB6, Com aquele lindo toque do Csharp.
 
 Versão 2.1 (Bio 2.1)
