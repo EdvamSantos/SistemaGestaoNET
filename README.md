@@ -3,7 +3,7 @@ Em desenvolvimento, codigo totalmente atualizado para a nova versão do .Net VB6
 
 ****Versão 2.1 (Bio 2.1)****
 
--Metodo de Conexão com o DB - Access 2023.
+Metodo de Conexão com o DB - Access 2023.
 
 ***(BillingSource)***
 
