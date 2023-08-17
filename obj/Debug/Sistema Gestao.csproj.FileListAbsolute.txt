@@ -1,0 +1,27 @@
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Sistema Gestao.exe.config
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Sistema Gestao.exe
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Sistema Gestao.pdb
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Xceed.Document.NET.dll
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Xceed.Words.NET.dll
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema Gestao.csproj.AssemblyReference.cache
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema_Gestao.Properties.Resources.resources
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema Gestao.csproj.GenerateResource.cache
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema Gestao.csproj.CoreCompileInputs.cache
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema Gestao.csproj.CopyComplete
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema Gestao.exe
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema Gestao.pdb
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema Gestao.csproj.ResolveComReference.cache
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema_Gestao.LOGIN_USER.resources
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema_Gestao.MENU_FICHA.resources
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema_Gestao.MENU_PRINCIPAL.resources
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema_Gestao.MENU_CADASTRO.resources
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\EPPlus.dll
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\EPPlus.xml
+C:\Users\edvam\source\repos\Sistema Gestao\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema_Gestao.MENU_RECIBOS.resources
+C:\Users\edvam\source\repos\Sistema Gestao\obj\Debug\Sistema_Gestao.MENU_NR01_OBRA.resources
